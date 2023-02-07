@@ -1,0 +1,15 @@
+{
+  "name": "MaquinaDeBuscaElasticSearch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/joaovic135/MaquinaDeBuscaElasticSearch.git",
+  "author": "Sérgio Augusto <sergioaugusto.bezerra.jr@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.6.0",
+    "express": "^4.18.2"
+  }
+}
